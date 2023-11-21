@@ -14,4 +14,7 @@ Reference Links:
 - TabGANs by diyago - [Github](https://github.com/Diyago/GAN-for-tabular-data)
 
 
- 
+ ## Project Video
+
+https://github.com/Vedant-Jayesh-Oza/SynthifyCT/assets/75005433/a6b9b882-a231-495f-8ce9-730046071ccf
+
